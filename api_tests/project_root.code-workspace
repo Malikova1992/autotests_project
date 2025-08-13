@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../Desktop/project_root"
+	},
+	{
+		"path": "../../pytest_project"
+	},
+	{
+		"path": "../../code/git"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {}
+}
